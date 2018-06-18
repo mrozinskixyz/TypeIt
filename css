@@ -1,0 +1,21 @@
+.demochat-window {
+	border: 1px solid #a5a5a5;
+  width: 300px;
+}
+
+.demochat-content {
+	padding: 10px 10px 0 10px;
+	font-weight: 400;
+}
+.visitor, .agent {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.visitor::before {
+	content: "Visitor: ";
+	font-weight: 700;
+}
+.agent::before {
+	content: "Live Agent: ";
+	font-weight: 700;
+}
