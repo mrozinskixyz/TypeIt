@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/mrozinskixyz/pen/xzpLLN.
+Frederic Mrozinski | Mrozinski.xyz | hello@Mrozinski.xyz | [webiste by: Kaluscha.org]
 
  
