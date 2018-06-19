@@ -10,22 +10,22 @@ $('.typeIt').typeIt({
 })
 
 
-  .tiType(' hi, i am frederic mrozinski')
+   .tiType(' hi, i am frederic mrozinski')
 .tiPause(1800)
 .tiDelete(33)
 .tiPause(1000)
 .tiSettings({speed: 100})
 
-  .tiType(' this is mrozinski.xyz')
+  .tiType(' this is <strong>mrozinski.xyz</strong>')
 .tiPause(1800)
 .tiDelete(33)
 .tiPause(1000)
 .tiSettings({speed: 100})
 
   .tiType(' you can contact me at...')
-.tiPause(1800)
+.tiPause(900)
 .tiDelete(33)
-.tiPause(1000)
+.tiPause(800)
 .tiSettings({speed: 100})
 
   .tiType(' hello@mrozinski.xyz')
