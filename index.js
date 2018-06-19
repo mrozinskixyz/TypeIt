@@ -6,7 +6,7 @@ $('.typeIt').typeIt({
 })
   .tiType('Hi,')
   .tiPause(600)
-  .tiType(' My name is Frederic Mrozinski')
+  .tiType(' My name is Gazi Taufiq.')
 .tiBreak().tiPause(1000)
 .tiSettings({speed: 300})
 .tiType('I am a')
