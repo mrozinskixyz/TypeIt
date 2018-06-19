@@ -16,7 +16,7 @@ $('.typeIt').typeIt({
 .tiPause(1000)
 .tiSettings({speed: 100})
 
-  .tiType('welcome to my website. ')
+  .tiType('welcome to my website')
 .tiPause(1800)
 .tiDelete(33)
 .tiPause(1000)
